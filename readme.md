@@ -19,19 +19,9 @@ For more information, [see](https://www.kdnuggets.com/2016/07/softmax-regression
 3) Classify digits from 0 to 9
 4) Logistic Regression, Shallow Network and Deep Network Support added.
 
-### Train Acuracy ~ 91 to 99%
+
 ### Test Acuracy ~ 90 to 98%
 
-<img src="https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/final.gif">
-
-### Execution for writing through webcam
-To run the code, type `python Dig-Rec.py`
-
-```
-python Dig-Rec.py
-```
-
-<img src="https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/digit.gif">
 
 ### Execution for showing images through webcam
 To run the code, type `python Digit-Recognizer.py`
